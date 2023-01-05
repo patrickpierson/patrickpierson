@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://user-images.githubusercontent.com/106826/115305648-80154a80-a11b-11eb-81a4-1eb1b9113156.gif" width="40px"/>, I'm Patrick</h1>
 <h3 align="center">I am Director of Cloud Infrastructure at IronNet Cybersecurity  in Frederick, MD</h3>
 
-<p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickpierson&show_icons=true&count_private=1" alt="patrickpierson" /></a></p>
+<!-- <p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickpierson&show_icons=true&count_private=1" alt="patrickpierson" /></a></p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws"/>
